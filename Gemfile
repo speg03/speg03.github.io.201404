@@ -19,3 +19,5 @@ gem "bootstrap-sass",
     github: "thomas-mcdonald/bootstrap-sass",
     branch: "3",
     require: false
+
+gem "middleman-deploy"
