@@ -2,6 +2,10 @@
  *= require bootstrap
  */
 
+body {
+    padding-top: 70px;
+}
+
 img.logo {
     width: 200px;
     height: 200px;
